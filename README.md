@@ -1,0 +1,1 @@
+# RES.Automation.VascoIdentikey.SOAP.Connector
